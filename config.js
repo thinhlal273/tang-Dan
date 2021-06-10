@@ -10,6 +10,6 @@ const CONFIG = {
     reply: 'Hong chỉ cho thì hongg có dỗi nhaa ',
     mess: 'lew leww haha ',
     messDesc: 'Hihii Đan mặp',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okiiiii lun ',
     messLink: 'https://www.facebook.com/profile.php?id=100031706160319' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
